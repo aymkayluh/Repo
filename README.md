@@ -1,2 +1,2 @@
-# Repo
+# Repositories
 Sample Repo for Discussion
